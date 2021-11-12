@@ -1,0 +1,138 @@
+body {
+	background-image:url(images/solidcolor.jpg);
+	background-repeat: no-repeat;
+	color:black;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	font-weight: normal;
+	line-height:1.5em;
+  margin:0;
+}
+
+h2 {
+	background-color: black;
+  color: white;
+	font-style: Helvetica;
+	font-size:70px;
+	font-weight: bold;
+  line-height:2 ;
+
+	margin-left: 300px;
+	margin-right:300px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+
+	border-top: solid 40px black;
+	border-bottom: solid 40px black;
+	border-left: solid 40px black;
+	border-right:solid 40px black;
+
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+
+	text-decoration: underline;
+	text-align: center;
+}
+
+p {
+	color:black;
+	font-family:sans-serif;
+	font-size:40px;
+	line-height:1em;
+	text-align: center;
+
+  margin-top: 40px;
+	margin-bottom: 40px;
+	margin-left: 40px;
+	margin-right:40px;
+}
+
+ol {
+  Color:black;
+  font-size:40px ;
+	font-weight: bold;
+  line-height:1em ;
+
+	margin-top: 4;
+	margin-bottom: 4;
+	margin-left: 700px;
+	margin-right: 700px;
+}
+
+ul {
+	padding-top:3;
+	display: block;
+	font-size: 40px;
+	font-weight: bold;
+	line-height: normal;
+}
+
+a {
+	font-size: 50px;
+	font-weight: bold;
+	color: blue;
+	display: block;
+}
+
+a:hover {
+	color: red;
+	text-decoration: underline;
+}
+
+a:visited {
+	color:red;
+}
+
+img {
+	display: block;
+	width: 50%;
+	height: 50%;
+
+	margin-top: 40px;
+	margin-bottom: 40px;
+	margin-left: auto;
+	margin-right: auto;
+
+	border-top:20px solid black;
+	border-bottom:20px solid black;
+	border-left: 20px solid black;
+	border-right: 20px solid black;
+
+}
+
+#points {
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-left: 700px;
+	margin-right: 700px;
+}
+
+.container {
+	background-image:url(images/purplerain.jpg);
+	background-repeat: no-repeat;
+	color:black;
+	max-width: 1500px;
+	margin: auto;
+	border: solid 20px;
+
+}
+
+footer p {
+	background-color: black;
+	color: white;
+	font-size: 30px;
+	line-height: 3;
+}
+
+.title {
+	background-color: Black;
+	color:white;
+  font-family: "Sofia";
+  font-size:100px;
+  line-height:1.5;
+  margin-left: 30px;
+	margin-right:30px;
+	text-align: center;
+}
